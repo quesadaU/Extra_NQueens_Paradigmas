@@ -1,0 +1,9 @@
+# Archivos generados
+output/*.html
+
+# Archivos temporales
+*.qlf
+*.o
+*.exe
+.DS_Store
+Thumbs.db
