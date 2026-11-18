@@ -7,3 +7,4 @@ output/*.html
 *.exe
 .DS_Store
 Thumbs.db
+output/*.csv
